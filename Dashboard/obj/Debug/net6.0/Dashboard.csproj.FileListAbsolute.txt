@@ -1,0 +1,15 @@
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\ChatOtomatis\Dashboard\bin\Debug\net6.0\Dashboard.exe
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\ChatOtomatis\Dashboard\bin\Debug\net6.0\Dashboard.deps.json
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\ChatOtomatis\Dashboard\bin\Debug\net6.0\Dashboard.runtimeconfig.json
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\ChatOtomatis\Dashboard\bin\Debug\net6.0\Dashboard.dll
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\ChatOtomatis\Dashboard\bin\Debug\net6.0\Dashboard.pdb
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\ChatOtomatis\Dashboard\obj\Debug\net6.0\Dashboard.csproj.AssemblyReference.cache
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\ChatOtomatis\Dashboard\obj\Debug\net6.0\Dashboard.GeneratedMSBuildEditorConfig.editorconfig
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\ChatOtomatis\Dashboard\obj\Debug\net6.0\Dashboard.AssemblyInfoInputs.cache
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\ChatOtomatis\Dashboard\obj\Debug\net6.0\Dashboard.AssemblyInfo.cs
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\ChatOtomatis\Dashboard\obj\Debug\net6.0\Dashboard.csproj.CoreCompileInputs.cache
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\ChatOtomatis\Dashboard\obj\Debug\net6.0\Dashboard.dll
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\ChatOtomatis\Dashboard\obj\Debug\net6.0\refint\Dashboard.dll
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\ChatOtomatis\Dashboard\obj\Debug\net6.0\Dashboard.pdb
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\ChatOtomatis\Dashboard\obj\Debug\net6.0\Dashboard.genruntimeconfig.cache
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\ChatOtomatis\Dashboard\obj\Debug\net6.0\ref\Dashboard.dll
