@@ -1,0 +1,15 @@
+C:\kuliah\semester 4\KPL (praktik)\Tubes_login\Tubes_login\obj\Debug\net6.0\Tubes_login.csproj.AssemblyReference.cache
+C:\kuliah\semester 4\KPL (praktik)\Tubes_login\Tubes_login\obj\Debug\net6.0\Tubes_login.GeneratedMSBuildEditorConfig.editorconfig
+C:\kuliah\semester 4\KPL (praktik)\Tubes_login\Tubes_login\obj\Debug\net6.0\Tubes_login.AssemblyInfoInputs.cache
+C:\kuliah\semester 4\KPL (praktik)\Tubes_login\Tubes_login\obj\Debug\net6.0\Tubes_login.AssemblyInfo.cs
+C:\kuliah\semester 4\KPL (praktik)\Tubes_login\Tubes_login\obj\Debug\net6.0\Tubes_login.csproj.CoreCompileInputs.cache
+C:\kuliah\semester 4\KPL (praktik)\Tubes_login\Tubes_login\bin\Debug\net6.0\Tubes_login.exe
+C:\kuliah\semester 4\KPL (praktik)\Tubes_login\Tubes_login\bin\Debug\net6.0\Tubes_login.deps.json
+C:\kuliah\semester 4\KPL (praktik)\Tubes_login\Tubes_login\bin\Debug\net6.0\Tubes_login.runtimeconfig.json
+C:\kuliah\semester 4\KPL (praktik)\Tubes_login\Tubes_login\bin\Debug\net6.0\Tubes_login.dll
+C:\kuliah\semester 4\KPL (praktik)\Tubes_login\Tubes_login\bin\Debug\net6.0\Tubes_login.pdb
+C:\kuliah\semester 4\KPL (praktik)\Tubes_login\Tubes_login\obj\Debug\net6.0\Tubes_login.dll
+C:\kuliah\semester 4\KPL (praktik)\Tubes_login\Tubes_login\obj\Debug\net6.0\refint\Tubes_login.dll
+C:\kuliah\semester 4\KPL (praktik)\Tubes_login\Tubes_login\obj\Debug\net6.0\Tubes_login.pdb
+C:\kuliah\semester 4\KPL (praktik)\Tubes_login\Tubes_login\obj\Debug\net6.0\Tubes_login.genruntimeconfig.cache
+C:\kuliah\semester 4\KPL (praktik)\Tubes_login\Tubes_login\obj\Debug\net6.0\ref\Tubes_login.dll
