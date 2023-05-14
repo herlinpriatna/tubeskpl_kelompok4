@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Produk/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Produk.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Produk.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Produk/1.0.0": {
+      "type": "project",
+      "path": "../Pencarian/Produk.csproj",
+      "msbuildProject": "../Pencarian/Produk.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Produk >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/muhammadzulfadly/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/muhammadzulfadly/Projects/TubesKPL2/PencarianProduk/PencarianProduk.csproj",
+      "projectName": "PencarianProduk",
+      "projectPath": "/Users/muhammadzulfadly/Projects/TubesKPL2/PencarianProduk/PencarianProduk.csproj",
+      "packagesPath": "/Users/muhammadzulfadly/.nuget/packages/",
+      "outputPath": "/Users/muhammadzulfadly/Projects/TubesKPL2/PencarianProduk/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/muhammadzulfadly/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "/Users/muhammadzulfadly/Projects/TubesKPL2/Pencarian/Produk.csproj": {
+              "projectPath": "/Users/muhammadzulfadly/Projects/TubesKPL2/Pencarian/Produk.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
