@@ -1,0 +1,15 @@
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\ChatOtomatis\ChatOtomatis\obj\Debug\net6.0\ChatOtomatis.csproj.AssemblyReference.cache
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\ChatOtomatis\ChatOtomatis\obj\Debug\net6.0\ChatOtomatis.GeneratedMSBuildEditorConfig.editorconfig
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\ChatOtomatis\ChatOtomatis\obj\Debug\net6.0\ChatOtomatis.AssemblyInfoInputs.cache
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\ChatOtomatis\ChatOtomatis\obj\Debug\net6.0\ChatOtomatis.AssemblyInfo.cs
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\ChatOtomatis\ChatOtomatis\obj\Debug\net6.0\ChatOtomatis.csproj.CoreCompileInputs.cache
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\ChatOtomatis\ChatOtomatis\bin\Debug\net6.0\ChatOtomatis.exe
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\ChatOtomatis\ChatOtomatis\bin\Debug\net6.0\ChatOtomatis.deps.json
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\ChatOtomatis\ChatOtomatis\bin\Debug\net6.0\ChatOtomatis.runtimeconfig.json
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\ChatOtomatis\ChatOtomatis\bin\Debug\net6.0\ChatOtomatis.dll
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\ChatOtomatis\ChatOtomatis\bin\Debug\net6.0\ChatOtomatis.pdb
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\ChatOtomatis\ChatOtomatis\obj\Debug\net6.0\ChatOtomatis.dll
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\ChatOtomatis\ChatOtomatis\obj\Debug\net6.0\refint\ChatOtomatis.dll
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\ChatOtomatis\ChatOtomatis\obj\Debug\net6.0\ChatOtomatis.pdb
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\ChatOtomatis\ChatOtomatis\obj\Debug\net6.0\ChatOtomatis.genruntimeconfig.cache
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\ChatOtomatis\ChatOtomatis\obj\Debug\net6.0\ref\ChatOtomatis.dll
