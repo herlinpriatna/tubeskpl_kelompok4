@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Keranjang/1.0.0": {
+        "dependencies": {
+          "Produk": "1.0.0"
+        },
+        "runtime": {
+          "Keranjang.dll": {}
+        }
+      },
+      "Produk/1.0.0": {
+        "runtime": {
+          "Produk.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Keranjang/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Produk/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/muhammadzulfadly/Projects/TubesKPL/Keranjang/Keranjang.csproj": {}
+  },
+  "projects": {
+    "/Users/muhammadzulfadly/Projects/TubesKPL/Keranjang/Keranjang.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/muhammadzulfadly/Projects/TubesKPL/Keranjang/Keranjang.csproj",
+        "projectName": "Keranjang",
+        "projectPath": "/Users/muhammadzulfadly/Projects/TubesKPL/Keranjang/Keranjang.csproj",
+        "packagesPath": "/Users/muhammadzulfadly/.nuget/packages/",
+        "outputPath": "/Users/muhammadzulfadly/Projects/TubesKPL/Keranjang/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/muhammadzulfadly/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/muhammadzulfadly/Projects/TubesKPL/Produk/Produk.csproj": {
+                "projectPath": "/Users/muhammadzulfadly/Projects/TubesKPL/Produk/Produk.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/muhammadzulfadly/Projects/TubesKPL/Produk/Produk.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/muhammadzulfadly/Projects/TubesKPL/Produk/Produk.csproj",
+        "projectName": "Produk",
+        "projectPath": "/Users/muhammadzulfadly/Projects/TubesKPL/Produk/Produk.csproj",
+        "packagesPath": "/Users/muhammadzulfadly/.nuget/packages/",
+        "outputPath": "/Users/muhammadzulfadly/Projects/TubesKPL/Produk/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/muhammadzulfadly/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

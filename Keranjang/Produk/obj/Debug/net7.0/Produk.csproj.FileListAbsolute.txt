@@ -1,0 +1,12 @@
+/Users/muhammadzulfadly/Projects/TubesKPL/Produk/bin/Debug/net7.0/Produk.deps.json
+/Users/muhammadzulfadly/Projects/TubesKPL/Produk/bin/Debug/net7.0/Produk.dll
+/Users/muhammadzulfadly/Projects/TubesKPL/Produk/bin/Debug/net7.0/Produk.pdb
+/Users/muhammadzulfadly/Projects/TubesKPL/Produk/obj/Debug/net7.0/Produk.csproj.AssemblyReference.cache
+/Users/muhammadzulfadly/Projects/TubesKPL/Produk/obj/Debug/net7.0/Produk.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muhammadzulfadly/Projects/TubesKPL/Produk/obj/Debug/net7.0/Produk.AssemblyInfoInputs.cache
+/Users/muhammadzulfadly/Projects/TubesKPL/Produk/obj/Debug/net7.0/Produk.AssemblyInfo.cs
+/Users/muhammadzulfadly/Projects/TubesKPL/Produk/obj/Debug/net7.0/Produk.csproj.CoreCompileInputs.cache
+/Users/muhammadzulfadly/Projects/TubesKPL/Produk/obj/Debug/net7.0/Produk.dll
+/Users/muhammadzulfadly/Projects/TubesKPL/Produk/obj/Debug/net7.0/refint/Produk.dll
+/Users/muhammadzulfadly/Projects/TubesKPL/Produk/obj/Debug/net7.0/Produk.pdb
+/Users/muhammadzulfadly/Projects/TubesKPL/Produk/obj/Debug/net7.0/ref/Produk.dll
