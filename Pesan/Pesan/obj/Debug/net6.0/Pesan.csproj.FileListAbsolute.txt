@@ -1,0 +1,15 @@
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\ChatOtomatis\Pesan\bin\Debug\net6.0\Pesan.exe
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\ChatOtomatis\Pesan\bin\Debug\net6.0\Pesan.deps.json
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\ChatOtomatis\Pesan\bin\Debug\net6.0\Pesan.runtimeconfig.json
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\ChatOtomatis\Pesan\bin\Debug\net6.0\Pesan.dll
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\ChatOtomatis\Pesan\bin\Debug\net6.0\Pesan.pdb
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\ChatOtomatis\Pesan\obj\Debug\net6.0\Pesan.csproj.AssemblyReference.cache
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\ChatOtomatis\Pesan\obj\Debug\net6.0\Pesan.GeneratedMSBuildEditorConfig.editorconfig
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\ChatOtomatis\Pesan\obj\Debug\net6.0\Pesan.AssemblyInfoInputs.cache
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\ChatOtomatis\Pesan\obj\Debug\net6.0\Pesan.AssemblyInfo.cs
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\ChatOtomatis\Pesan\obj\Debug\net6.0\Pesan.csproj.CoreCompileInputs.cache
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\ChatOtomatis\Pesan\obj\Debug\net6.0\Pesan.dll
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\ChatOtomatis\Pesan\obj\Debug\net6.0\refint\Pesan.dll
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\ChatOtomatis\Pesan\obj\Debug\net6.0\Pesan.pdb
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\ChatOtomatis\Pesan\obj\Debug\net6.0\Pesan.genruntimeconfig.cache
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\ChatOtomatis\Pesan\obj\Debug\net6.0\ref\Pesan.dll
