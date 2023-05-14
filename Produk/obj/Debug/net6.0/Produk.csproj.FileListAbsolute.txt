@@ -1,0 +1,15 @@
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\Produk\bin\Debug\net6.0\Produk.exe
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\Produk\bin\Debug\net6.0\Produk.deps.json
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\Produk\bin\Debug\net6.0\Produk.runtimeconfig.json
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\Produk\bin\Debug\net6.0\Produk.dll
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\Produk\bin\Debug\net6.0\Produk.pdb
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\Produk\obj\Debug\net6.0\Produk.csproj.AssemblyReference.cache
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\Produk\obj\Debug\net6.0\Produk.GeneratedMSBuildEditorConfig.editorconfig
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\Produk\obj\Debug\net6.0\Produk.AssemblyInfoInputs.cache
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\Produk\obj\Debug\net6.0\Produk.AssemblyInfo.cs
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\Produk\obj\Debug\net6.0\Produk.csproj.CoreCompileInputs.cache
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\Produk\obj\Debug\net6.0\Produk.dll
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\Produk\obj\Debug\net6.0\refint\Produk.dll
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\Produk\obj\Debug\net6.0\Produk.pdb
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\Produk\obj\Debug\net6.0\Produk.genruntimeconfig.cache
+D:\About Telkom University\Semester 4\Konstruksi Perangkat Lunak\Tubes\Produk\obj\Debug\net6.0\ref\Produk.dll
