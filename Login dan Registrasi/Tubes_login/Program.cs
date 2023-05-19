@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+// See https://aka.ms/new-console-template for more information
 using System;
 
 namespace Account
@@ -10,7 +10,7 @@ namespace Account
             AccountSystem am = new AccountSystem();
             am.currentState = AccountSystem.State.Start;
 
-            Console.WriteLine("Selamat datang.");
+            Console.WriteLine("===========| Selamat datang |===========");
 
             while (am.currentState != AccountSystem.State.End)
             {
@@ -25,7 +25,7 @@ namespace Account
                 {
                     case 1:
                         am.activeTrigger(AccountSystem.Trigger.RegistrasiBtn);
-                        Console.WriteLine("\nAnda berada di halaman Registrasi");
+                        Console.WriteLine("\nHalaman Registrasi");
                         Console.WriteLine("Pilih tipe akun:");
                         Console.WriteLine("1. Pembeli");
                         Console.WriteLine("2. Penjual");
@@ -56,7 +56,7 @@ namespace Account
 
                     case 2:
                         am.activeTrigger(AccountSystem.Trigger.RegistrasiBtn);
-                        Console.WriteLine("\nAnda berada di halaman Login");
+                        Console.WriteLine("\nHalaman Login");
                         Console.WriteLine("Pilih tipe akun:");
                         Console.WriteLine("1. Pembeli");
                         Console.WriteLine("2. Penjual");
