@@ -1,9 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Reflection.Metadata.Ecma335;
-
 using System;
 using System.Collections.Generic;
+using System.Reflection.Metadata.Ecma335;
 
 public enum MetodePembayaran
 {
@@ -19,7 +16,7 @@ public class Produk
     public int Stok { get; set; }
 }
 
-public class PesanProduk
+public class PesanProduk<T>
 {
     private List<Produk> produkTersedia;
 
@@ -73,7 +70,7 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        PesanProduk pesanProduk = new PesanProduk();
+        PesanProduk<Produk> pesanProduk = new PesanProduk<Produk> ();
 
         // Pesan produk dengan metode pembayaran bank
         pesanProduk.Pesan("Cimol", 2, MetodePembayaran.Bank);
@@ -88,6 +85,6 @@ public class Program
         pesanProduk.Pesan("Cilor", 1, MetodePembayaran.COD);
         Console.WriteLine();
 
-
+        Console.ReadKey();
     }
 }
