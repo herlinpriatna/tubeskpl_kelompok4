@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System;
@@ -100,11 +100,11 @@ namespace Account
 
             if (currentState == AccountSystem.State.PembeliRegistrasi)
             {
-                Console.WriteLine("--Registrasi Pembeli--");
+                Console.WriteLine("===========| Registrasi Pembeli |===========");
             }
             else if (currentState == AccountSystem.State.PenjualRegistrasi)
             {
-                Console.WriteLine("--Registrasi Penjual--");
+                Console.WriteLine("===========| Registrasi Penjual |===========");
             }
 
             Console.WriteLine("Name (maks: 20 huruf, tidak ada spasi)");
@@ -157,12 +157,12 @@ namespace Account
             String tipe_akun = "";
             if (currentState == AccountSystem.State.PembeliLogin)
             {
-                Console.WriteLine("--Login Pembeli--");
+                Console.WriteLine("===========| Login Pembeli |===========");
                 tipe_akun = "Pembeli";
             }
             else if (currentState == AccountSystem.State.PenjualLogin)
             {
-                Console.WriteLine("--Login Penjual--");
+                Console.WriteLine("===========| Login Penjual |===========");
                 tipe_akun = "Penjual";
             }
 
